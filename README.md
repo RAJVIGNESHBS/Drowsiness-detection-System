@@ -10,6 +10,7 @@ This project implements a real-time driver drowsiness detection system using Pyt
 - imutils
 - numpy
 - scipy
+- pandas
 
 ## Installation
 
